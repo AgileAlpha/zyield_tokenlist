@@ -2559,7 +2559,7 @@
             "chainId": 137,
             "decimals": 18,
             "holders": 807,
-            "imageURL": "https://polygonscan.com/token/images/wETH_32.png",
+            "imageURL": "https://assets.trustwalletapp.com/blockchains/polygon/assets/0x7ceB23fD6bC0adD59E62ac25578270cFf1b9f619/logo.png",
             "name": "Wrapped Ether",
             "symbol": "WETH"
         },
