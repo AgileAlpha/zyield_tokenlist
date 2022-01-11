@@ -2634,6 +2634,15 @@
             "imageURL": "https://raw.githubusercontent.com/trustwallet/assets/ad3cfa2e1c8e4b295cd81d64ecc5ab2a9514f79e/blockchains/ethereum/assets/0x72e364F2ABdC788b7E918bc238B21f109Cd634D7/logo.png",
             "name": "Metaverse Index",
             "symbol": "MVI"
+        },
+        {
+            "address": "0x1D607Faa0A51518a7728580C238d912747e71F7a",
+            "chainId": 137,
+            "decimals": 18,
+            "holders": 0,
+            "imageURL": "https://raw.githubusercontent.com/trustwallet/assets/ad0fa66bd3c1e61df5316ccf0049460edf20d74a/blockchains/ethereum/assets/0x33d63Ba1E57E54779F7dDAeaA7109349344cf5F1/logo.png",
+            "name": "Data Economy Index",
+            "symbol": "DATA"
         }
     ],
     "version": {
