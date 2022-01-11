@@ -2634,15 +2634,6 @@
             "imageURL": "https://polygonscan.com/images/main/empty-token.png",
             "name": "Metaverse Index",
             "symbol": "MVI"
-        },
-        {
-            "address": "0x3ad707da309f3845cd602059901e39c4dcd66473",
-            "chainId": 137,
-            "decimals": 18,
-            "holders": 0,
-            "imageURL": "https://polygonscan.com/token/images/indexcoopeth2xflex_32.png",
-            "name": "ETH 2x Flexible Leverage Index",
-            "symbol": "ETH2x-FLI-P"
         }
     ],
     "version": {
