@@ -183,7 +183,7 @@
             "chainId": 137,
             "decimals": 18,
             "holders": 1,
-            "imageURL": "https://github.com/trustwallet/assets/blob/ad3cfa2e1c8e4b295cd81d64ecc5ab2a9514f79e/blockchains/ethereum/assets/0xAa6E8127831c9DE45ae56bB1b0d4D4Da6e5665BD/logo.png",
+            "imageURL": "https://raw.githubusercontent.com/trustwallet/assets/ad3cfa2e1c8e4b295cd81d64ecc5ab2a9514f79e/blockchains/ethereum/assets/0xAa6E8127831c9DE45ae56bB1b0d4D4Da6e5665BD/logo.png",
             "name": "ETH 2x Flexible Leverage Index",
             "symbol": "ETH2x-FLI-P"
         },
@@ -2622,7 +2622,7 @@
             "chainId": 137,
             "decimals": 18,
             "holders": 0,
-            "imageURL": "https://github.com/trustwallet/assets/blob/ad3cfa2e1c8e4b295cd81d64ecc5ab2a9514f79e/blockchains/ethereum/assets/0x1494CA1F11D487c2bBe4543E90080AeBa4BA3C2b/logo.png",
+            "imageURL": "https://raw.githubusercontent.com/trustwallet/assets/ad3cfa2e1c8e4b295cd81d64ecc5ab2a9514f79e/blockchains/ethereum/assets/0x1494CA1F11D487c2bBe4543E90080AeBa4BA3C2b/logo.png",
             "name": "Defi Pulse Index",
             "symbol": "DPI"
         },
@@ -2631,7 +2631,7 @@
             "chainId": 137,
             "decimals": 18,
             "holders": 0,
-            "imageURL": "https://github.com/trustwallet/assets/blob/ad3cfa2e1c8e4b295cd81d64ecc5ab2a9514f79e/blockchains/ethereum/assets/0x72e364F2ABdC788b7E918bc238B21f109Cd634D7/logo.png",
+            "imageURL": "https://raw.githubusercontent.com/trustwallet/assets/ad3cfa2e1c8e4b295cd81d64ecc5ab2a9514f79e/blockchains/ethereum/assets/0x72e364F2ABdC788b7E918bc238B21f109Cd634D7/logo.png",
             "name": "Metaverse Index",
             "symbol": "MVI"
         }
